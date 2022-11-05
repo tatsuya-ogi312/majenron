@@ -1,0 +1,3 @@
+class Majon
+  
+end
